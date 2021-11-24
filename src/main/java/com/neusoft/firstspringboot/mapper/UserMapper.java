@@ -16,8 +16,6 @@ public interface UserMapper {
     public Users querMsg(Integer id);
 
 
-    public Users updateMsg(Users users);
-
 }
 
 
